@@ -274,8 +274,7 @@ Fitto is currently being improved as a portfolio project and is planned to be pr
 
 ## Source Code
 
-The source code is kept private because the application is planned for future release.
-
+This repository is used as a public project showcase. The full source code is kept private because the application is planned for future release.
 ---
 
 ## License
